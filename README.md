@@ -1,5 +1,11 @@
-Pronouns: He/Him
+2nd Engineering Student @ The University of British Columbia
 
+### **Projects:**
+1. Currently working on a 2D Shooter
+2. Project Varis is in the Planning Stage...
+     - Anyone know how to integrate AI into an Arduino
+
+**I love cats**
 <!--
 **geogr4ze/geogr4ze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
