@@ -1,4 +1,4 @@
-2nd Engineering Student @ The University of British Columbia
+2nd Year Engineering Student @ The University of British Columbia
 
 ### **Projects:**
 1. Currently working on a 2D Shooter
