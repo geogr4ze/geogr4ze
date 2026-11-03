@@ -2,8 +2,7 @@
 
 ### **Projects:**
 1. Currently working on a 2D Shooter
-2. Project Varis is in the Planning Stage...
-     - Anyone know how to integrate AI into an Arduino
+2. Project VARIS is in the Planning Stage...
 
 **I love cats**
 <!--
