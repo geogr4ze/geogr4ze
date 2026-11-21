@@ -1,5 +1,8 @@
-# Projects
+# Hi, I'm Manyu
 
+I'm a Computer Engineering student at the **University of British Columbia**. I enjoy building projects involving software, robotics, and automation, and learning through hands-on problem solving.
+
+## Projects
 
 ### [Project VARIS — Robotic Arm](https://github.com/geogr4ze/Project-Varis)
 **Fusion 360 · 3D Printing · Arduino · Robotics**
