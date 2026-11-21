@@ -1,21 +1,34 @@
-2nd Year Engineering Student @ The University of British Columbia
+# Hi, I'm Manyu
 
-### **Projects:**
-1. Currently working on a 2D Shooter
-2. Project VARIS is in the Planning Stage...
+I'm a Computer Engineering student at the **University of British Columbia** with an interest in software development, embedded systems, and robotics. I enjoy building practical projects, solving problems, and learning through hands-on design and testing.
 
-**I love cats**
-<!--
-**geogr4ze/geogr4ze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
 
-Here are some ideas to get you started:
+### [Project VARIS — Robotic Arm](https://github.com/geogr4ze/Project-Varis)
+**Fusion 360 · 3D Printing · Arduino · Robotics**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Designing and prototyping a custom robotic arm, from CAD models and 3D-printed components to motor control and electronics. I'm also exploring computer vision and object recognition for future automated movement.
+
+### [Spotify Premium Autohandler](https://github.com/geogr4ze/Spotify-Premium-Autohandler)
+**JavaScript · Google Apps Script · Google Sheets · Gmail**
+
+Built a payment-tracking and reminder system for a shared six-person subscription. It organizes payment notifications, calculates how long contributions cover subscription costs (including historical price changes), and supports automated reminders.
+
+### 2D Shooter
+**Godot · GDScript · Game Development**
+
+Developing a 2D shooter with player movement, combat, and enemy systems. The project has helped me practice object-oriented programming, debugging, and iterative game development. *(Repository currently private.)*
+
+## Technical Skills
+
+- **Programming:** Java, C++, JavaScript / Google Apps Script, GDScript, MATLAB scripting
+- **Tools:** Git, GitHub, Fusion 360, SolidWorks, Godot, Google Sheets
+- **Areas of interest:** Robotics, embedded systems, software engineering, and automation
+
+## About Me
+
+I'm interested in engineering co-op opportunities where I can contribute to real projects and continue developing my software and hardware skills.
+
+Outside of engineering, I love cats.
+
+**Connect with me:** [LinkedIn](https://www.linkedin.com/in/mchen021)
